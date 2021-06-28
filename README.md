@@ -20,6 +20,8 @@
 ## HostPage 기능
 Hostpage기능을 작성해주세요.
 ## AdminPage 기능
-Adminpage기능을 작성해주세요.
+관리자 연습실 등록
+관리자 연습실 조회 및 관리
+회원 조회 및 예약관리
 ## MainPage 기능
 Mainpage기능을 작성해주세요.
