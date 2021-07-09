@@ -8,20 +8,24 @@
 * 자료공유:GitHub
 * front-End : JQuery
 * back-End : JDBC
+
 ## 목차
-1. GuestPage 기능
-2. HostPage 기능
-3. AdminPage 기능
-4. MainPage 기능
+1. GuestPage 기능  
+2. HostPage 기능  
+3. AdminPage 기능  
+4. MainPage 기능  
+
 ## GuestPage 기능
-홈페이지 로그인, 회원 가입
-게스트 정보 수정, 회원 탈퇴
-게스트 예약 정보 조회
+홈페이지 로그인, 회원 가입  
+게스트 정보 수정, 회원 탈퇴  
+게스트 예약 정보 조회  
+
 ## HostPage 기능
 Hostpage기능을 작성해주세요.
+
 ## AdminPage 기능
-관리자 연습실 등록
-관리자 연습실 조회 및 관리
-회원 조회 및 예약관리
+관리자 연습실 등록  
+관리자 연습실 조회 및 관리  
+회원 조회 및 예약관리  
 ## MainPage 기능
-Mainpage기능을 작성해주세요.
+Mainpage기능을 작성해주세요.  
