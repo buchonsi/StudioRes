@@ -20,12 +20,16 @@
 ## 개발기간
 * 2021-04-20~2021-05-04
 
-
 ## 목차
 1. [MainPage](#MainPage)
 2. [GuestPage](#GuestPage)
 3. [HostPage](#HostPage)
 4. [AdminPage](#AdminPage)  
+
+##개인 작업 소스 링크
+[hostController](https://github.com/buchonsi/StudioRes/tree/master/src/hostController)
+[hostView](https://github.com/buchonsi/StudioRes/tree/master/WebContent/host)
+[dao host부분](https://github.com/buchonsi/StudioRes/blob/master/src/model/StudioResDAO.java)
 
 ## MainPage
 * 연습실 조회(지하철 역별, 지역별)  
