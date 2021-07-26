@@ -27,7 +27,7 @@
 4. [AdminPage](#AdminPage)  
 
 
-##개인 작업 부분 (소스 링크 - 윤종무)
+## 개인 작업 부분 (소스 링크 - 윤종무)
 
 [hostController](https://github.com/buchonsi/StudioRes/tree/master/src/hostController)
 
