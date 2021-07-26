@@ -29,11 +29,9 @@
 
 ## 개인 작업 부분 (소스 링크 - 윤종무)
 
-[hostController](https://github.com/buchonsi/StudioRes/tree/master/src/hostController)
-
-[hostView](https://github.com/buchonsi/StudioRes/tree/master/WebContent/host)
-
-[Dao host부분](https://github.com/buchonsi/StudioRes/blob/master/src/model/StudioResDAO.java)
+* [hostController](https://github.com/buchonsi/StudioRes/tree/master/src/hostController)
+* [hostView](https://github.com/buchonsi/StudioRes/tree/master/WebContent/host)
+* [Dao host부분](https://github.com/buchonsi/StudioRes/blob/master/src/model/StudioResDAO.java)
 
 
 ## MainPage
